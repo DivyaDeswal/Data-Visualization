@@ -20,32 +20,3 @@ Highlight critical trends, such as literacy rates, workforce participation, and 
 Pandas: For data manipulation and preprocessing.
 Matplotlib & Seaborn: For creating static visualizations.
 Plotly: For generating interactive and dynamic charts.
-
-###### The dataset used in the India Census Visualization notebook includes the following columns, as inferred from the dataset description and structure:
-
-#### Columns:
-####### District_code: Unique identifier for districts in India.
-####### State_name: Name of the state the district belongs to.
-####### District_name: Name of the district.
-####### Population: Total population of the district.
-####### Male: Total male population in the district.
-####### Female: Total female population in the district.
-####### Literate: Number of literate individuals in the district.
-####### Workers: Total number of workers in the district.
-####### Male_Workers: Number of male workers in the district.
-####### Female_Workers: Number of female workers in the district.
-####### Cultivator_Workers: Workers engaged in cultivation.
-####### Agricultural_Workers: Workers engaged in agriculture but not as cultivators.
-####### Household_Workers: Workers engaged in household industries.
-####### Hindus: Number of individuals identifying as Hindus.
-####### Muslims: Number of individuals identifying as Muslims.
-Christians: Number of individuals identifying as Christians.
-Sikhs: Number of individuals identifying as Sikhs.
-Buddhists: Number of individuals identifying as Buddhists.
-Jains: Number of individuals identifying as Jains.
-Secondary_Education: Number of individuals with secondary education.
-Higher_Education: Number of individuals with higher education.
-Graduate_Education: Number of individuals with graduate-level education.
-Age_Group_0_29: Population aged 0–29 years.
-Age_Group_30_49: Population aged 30–49 years.
-Age_Group_50: Population aged 50 years and above.
