@@ -23,6 +23,4 @@ Pandas: For data manipulation and preprocessing.
 Matplotlib & Seaborn: For creating static visualizations.
 Plotly: For generating interactive and dynamic charts.
 
-company
 
-title
