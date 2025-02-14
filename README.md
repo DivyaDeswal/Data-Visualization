@@ -1,25 +1,93 @@
-# Data-Visualization
-This repository focuses on creating visually appealing and meaningful representations of data. It leverages(using tools, techniques, or resources) various Python libraries such as Matplotlib, Seaborn, and Plotly to transform raw datasets into comprehensible charts and graphs.
+# 📊 Data Visualization Projects
+Welcome to my Data Visualization Repository! 🚀 This repository contains Jupyter notebooks showcasing data visualization techniques using Matplotlib, Seaborn, and Plotly to analyze and present insights from different datasets.
 
-### India Census Visualization Notebook
-![image](https://github.com/user-attachments/assets/642d880d-8e3c-4bae-97fd-0cc428e5e97c)
+## 📂 Projects Included
+### 1️⃣ AI Job Market Dataset.ipynb
+📌 Description:
+This project explores the Artificial Intelligence (AI) job market by analyzing:
 
-This Notebook provides an in-depth analysis of India's census data through data visualization techniques. The goal is to make complex demographic data more understandable by converting it into insightful visual representations.
-###### Key Features:
-Demographic Analysis:
-Explore population statistics, including age, gender distribution, and urban vs. rural populations.
-Geographic Trends:
-Visualize how populations vary across different states and regions in India.
+Demand for AI jobs in different countries.
 
-Interactive Visuals:
-Utilize tools like Matplotlib, Seaborn, and Plotly to create static and dynamic charts for better engagement.
+Average salaries based on experience levels.
 
-Key Insights:
-Highlight critical trends, such as literacy rates, workforce participation, and population density, to understand India's socio-economic landscape.
+Required skills in AI-related roles.
 
-##### Libraries Used:
-Pandas: For data manipulation and preprocessing.
-Matplotlib & Seaborn: For creating static visualizations.
-Plotly: For generating interactive and dynamic charts.
+#### 📈 Visualizations Used:
+Bar Charts – Job demand by country.
 
+Box Plots – Salary distributions.
 
+Pie Charts – Most required AI skills.
+
+### 2️⃣ CASE STUDY – IPL TEAMS.ipynb
+📌 Description:
+Analyzes the performance of Indian Premier League (IPL) teams over different seasons.
+
+Key insights include:
+
+Team-wise win percentages.
+
+Player performance trends.
+
+Toss decisions vs match outcomes.
+
+#### 📈 Visualizations Used:
+Stacked Bar Charts – Match wins by team.
+
+Line Charts – Runs scored per season.
+
+Heatmaps – Team performance correlations.
+
+### 3️⃣ India Census Visualization.ipynb
+📌 Description:
+This project visualizes key demographic and socioeconomic trends in India using census data.
+
+Key insights include:
+
+Population growth trends.
+
+Literacy rates by state.
+
+Gender ratio trends over time.
+
+#### 📈 Visualizations Used:
+
+Bar Charts – Population distribution across states.
+
+Choropleth Maps – State-wise literacy rates.
+
+Time Series Plots – Population growth over decades.
+
+### 4️⃣ Shopping Trend Dataset.ipynb
+📌 Description:
+Analyzes consumer shopping behaviors using transaction data.
+
+Key insights include:
+
+Popular product categories.
+
+Seasonal trends in purchases.
+
+Age-group-based shopping preferences.
+
+#### 📈 Visualizations Used:
+Bar Charts – Most purchased product categories.
+
+Histograms – Spending distribution across customers.
+
+Scatter Plots – Price vs quantity trends.
+
+##### 🛠️ Tools & Libraries
+Python 🐍
+
+Jupyter Notebook
+
+Matplotlib, Seaborn, Plotly 📊
+
+Pandas, NumPy
+
+#####📌 How to Use
+Clone the repository:
+git clone https://github.com/DivyaDeswal/Data-Visualization.git
+Open the Jupyter notebooks in Jupyter Notebook or Google Colab.
+Run the code and explore the visualizations!
