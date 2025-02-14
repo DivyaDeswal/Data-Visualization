@@ -86,7 +86,8 @@ Matplotlib, Seaborn, Plotly 📊
 
 Pandas, NumPy
 
-#####📌 How to Use
+📌 How to Use
+
 Clone the repository:
 git clone https://github.com/DivyaDeswal/Data-Visualization.git
 Open the Jupyter notebooks in Jupyter Notebook or Google Colab.
